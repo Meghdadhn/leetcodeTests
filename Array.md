@@ -2,7 +2,7 @@
 
 * Always pay attention to special cases, e.g., empty arryas [], etc.
 * Sample Code for Erasing an element from vector:
-*   `code()`
+  *  `code()`
 
 
 ## Tags: Easy - Array ##
