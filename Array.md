@@ -11,7 +11,7 @@
 [Q No: 1. Two Sum](https://leetcode.com/problems/two-sum/submissions/ "Q No: 1. Two Sum") 
 * Runtime: 636 ms Memory Usage: 10.2 MB
 
-[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/ "26. Remove Duplicates from Sorted Array") 
+[Q No: 26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/ "26. Remove Duplicates from Sorted Array") 
 * Runtime: 16 ms Memory Usage: 18.4 MB
 * Note: Question is asking for modifying the input array so that all unique elements are in the first part of returned array. The remaining elements are not important. For example: input = [1,1,2,2,4], output can be = [1,2,4,2,4] (only first 3 uniqe elements matter)
 
