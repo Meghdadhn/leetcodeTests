@@ -11,6 +11,9 @@
 [Q No: 1. Two Sum](https://leetcode.com/problems/two-sum/submissions/ "Q No: 1. Two Sum") 
 * Runtime: 636 ms Memory Usage: 10.2 MB
 
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/ "26. Remove Duplicates from Sorted Array") 
+* Runtime: 16 ms Memory Usage: 18.4 MB
+
 ## Tags: Medium - Array ##
 
 ## Tags: Hard - Array ##
