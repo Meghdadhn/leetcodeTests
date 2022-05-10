@@ -1,7 +1,7 @@
 ## Important Notes ##
 
 * Always pay attention to special cases, e.g., empty arryas [], etc.
-
+`code()`
 
 ## Tags: Easy - Array ##
 
