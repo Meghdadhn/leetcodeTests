@@ -5,7 +5,7 @@
 
 ## Tags: Easy - Array ##
 
-[Q No: 66 - Plus One](https://leetcode.com/problems/plus-one/ "Q No: 66 - Plus One") 
+[Q No: 66 - Plus One](https://leetcode.com/problems/plus-one/) 
 * Runtime: 0 ms Memory Usage: 8.8 MB
 
 [Q No: 1. Two Sum](https://leetcode.com/problems/two-sum/submissions/ "Q No: 1. Two Sum") 
