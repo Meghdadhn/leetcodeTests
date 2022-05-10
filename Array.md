@@ -6,7 +6,7 @@
 ## Tags: Easy - Array ##
 
 [Q No: 66 - Plus One](https://leetcode.com/problems/plus-one/ "Q No: 66 - Plus One") 
-(Hint: Pay attention to special cases)
+(100% CPU, 12% Memory)
 
 ## Tags: Medium - Array ##
 
