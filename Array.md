@@ -2,7 +2,10 @@
 
 * Always pay attention to special cases, e.g., empty arryas [], etc.
 * Sample Code for Erasing an element from vector:
-  *  `code()`
+  *  `    auto elem_to_remove = str_vec.begin() + 4;
+    if (elem_to_remove != str_vec.end()) {
+        str_vec.erase(elem_to_remove);
+    }`
 
 
 ## Tags: Easy - Array ##
