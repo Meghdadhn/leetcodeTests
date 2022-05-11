@@ -19,7 +19,7 @@
 * Runtime: 16 ms Memory Usage: 18.4 MB
 * Note: Question is asking for modifying the input array so that all unique elements are in the first part of returned array. The remaining elements are not important. For example: input = [1,1,2,2,4], output can be = [1,2,4,2,4] (only first 3 uniqe elements matter)
 
-[Q No: 27. Remove Element](https://leetcode.com/problems/remove-element/submissions/) 
+[Q No: 27. Remove Element](https://leetcode.com/problems/remove-element/) 
 * Runtime: 4 ms Memory Usage: 8.7 MB
 * Similar to Q No: 26. 
 ## Tags: Medium - Array ##
