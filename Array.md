@@ -22,6 +22,11 @@
 [Q No: 27. Remove Element](https://leetcode.com/problems/remove-element/) 
 * Runtime: 4 ms Memory Usage: 8.7 MB
 * Similar to Q No: 26. 
+
+[Q No: 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) 
+* Runtime: 7 ms Memory Usage: 9.7 MB
+* Binary Search -> need to do more of this
+
 ## Tags: Medium - Array ##
 
 ## Tags: Hard - Array ##
