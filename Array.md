@@ -4,6 +4,7 @@
 * Sample Code for Erasing an element from vector:
   *  ` auto elem_to_remove = vec.begin() + 4;
         vec.erase(elem_to_remove);`
+  * ` (condition) ? {code for YES} : {code for NO} `
 
 
 ## Tags: Easy - Array ##
