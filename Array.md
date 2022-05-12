@@ -1,7 +1,7 @@
 ## Important Notes ##
 
 * Always pay attention to special cases, e.g., empty arryas [], etc.
-* Sample Code for Erasing an element from vector:
+* Some Usefull Scripts:
   *  ` auto elem_to_remove = vec.begin() + 4;
         vec.erase(elem_to_remove);`
   * ` (condition) ? {code for YES} : {code for NO} `
