@@ -26,6 +26,10 @@
 [Q No: 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
 * O(n) solution -> review this 
 
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
+* Hastable
+* O(n) solution
+
 ## Tags: Medium - Array ##
 
 ## Tags: Hard - Array ##
