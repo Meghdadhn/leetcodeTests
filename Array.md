@@ -27,7 +27,7 @@
 * O(n) solution -> review this 
 
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) 
-* Hastable
+* Hashtable
 * O(n) solution
 
 ## Tags: Medium - Array ##
